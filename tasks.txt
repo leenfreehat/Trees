@@ -1,0 +1,5 @@
+101#attend lecture#25/3/2025#3
+120#shopping#21/3/2025#5.5
+313#visit grandparents#24/3/2025#7
+142#study COMP2421 course#24/3/2025#3.5
+15#submit project 1#5/4/2025#0.1
